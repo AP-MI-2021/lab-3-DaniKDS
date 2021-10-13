@@ -20,7 +20,7 @@ Proprietățile:
 
 1. Toate numerele sunt pătrate perfecte.
   - Funcția de calcul: **get_longest_all_perfect_squares(lst: list[int]) -> list[int]**
-2. Toate numerele sunt prime.
+2. Toate numerele sunt prime.//rezolvata
   - Funcția de calcul: **get_longest_all_primes(lst: list[int]) -> list[int]**
 3. Numerele au semne alternante.
   - Funcția de calcul: **get_longest_alternating_signs(lst: list[int]) -> list[int]**
@@ -36,11 +36,11 @@ Proprietățile:
   - Funcția de calcul: **get_longest_sum_is_prime(lst: list[int]) -> list[int]**
 9. Produsul numerelor este impar.
   - Funcția de calcul: **get_longest_product_is_odd(lst: list[int]) -> list[int]**
-10.	Toate numerele sunt pare.
+10.	Toate numerele sunt pare.//rezolvata
   - Funcția de calcul: **get_longest_all_even(lst: list[int]) -> list[int]**
 11.	Toate numerele au același număr de biți de 1 în reprezentarea binară.
   - Funcția de calcul: **get_longest_same_bit_counts(lst: list[int]) -> list[int]**
-12.	Toate numerele același număr de divizori.
+12.	Toate numerele același număr de divizori.//rezolvata
   - Funcția de calcul: **get_longest_same_div_count(lst: list[int]) -> list[int]**
 13.	Toate numerele sunt formate din cifre prime.
   - Funcția de calcul: **get_longest_prime_digits(lst: list[int]) -> list[int]**
